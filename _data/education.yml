@@ -1,0 +1,11 @@
+# Education Template
+- layout: left
+  name: Polytech'Grenoble
+  dates: 2009 - 2012
+  qualification: |
+    Computer Science Engineer <br/>
+    <i>Major : Networks and Systems</i>
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    Key modules : Algorithms, Systems architecture, Cryptography, Databases, Software engineering, Operating Systems, Networks, Communication, Management.
