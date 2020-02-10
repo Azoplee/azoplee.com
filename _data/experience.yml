@@ -1,0 +1,147 @@
+# Experience template
+- layout: left
+  company: Azoplee.com
+  job_title: Senior Consultant
+  dates: November 2019 - present
+  description: |
+
+    **Customer: Nokia**
+    -------------------
+
+    *Assignment: Scaling Platform*
+
+    * Migration of business application from ECS to Kubernetes
+    * Packaging and Deployment Automation
+    * Platform support and coaching
+
+    *Technical environment : EKS, Helm, Gitlab, Openstack*
+
+    <br/>
+
+    **Customer: Undisclosed (for now)**
+    -----------------------------------
+
+    *Assignment: Stack migration from a Docker based architecture to a Kubernetes one*
+
+    * Audit of existing architecture
+    * Proof of concept with Kubernetes architecture
+    * Packagging and Deployment Automation
+
+    *Technical environment : Kubernetes, Docker, DigitalOcean, Helm*
+
+- layout: left
+  company: Fon <br/> (previously XCellAir)
+  #link: Link to company (optional)
+  job_title: Senior Devops Engineer
+  dates: May 2017 - November 2019
+  description: |
+
+    *Assignment: Private cloud platform*
+
+    * Setup and configuration of Openstack server
+    * Design of private cloud architecture
+    * Deployment and Configuration of Openstack with Chef
+    * Contribution to Openstack Chef cookbooks to support last Openstack versions
+
+
+    *Assignment: CI/CD pipeline*
+
+    * Migration of repositories to Gitlab Cloud and user training
+    * Design and implementation of CI and CD using GitlabCI
+    * Team velocity improvement with a faster feedback loop
+    * Deployment of an internal artifacts manager (Nexus)
+
+
+    *Assignment: Scaling plateform*
+
+    * Introduction of Docker technology in the company and user training
+    * Lead containerization of business applications and technology adoption
+    * Introduction of Kubernetes as next generation scaling solution
+    * Deployment of containerized stack in AWS and Openstack (ECS, K8s, docker compose)
+
+    *Technical environment : Kubernetes, Docker, AWS, Terraform, Gitlab, Openstack, Chef, Python, Linux*
+
+
+- layout: left
+  company: Nuance Communications
+  #link: Link to company (optional)
+  dates: April 2016 - May 2017
+  job_title: Devops Engineer
+  description: |
+
+    *Assignment: Provide a cloud based platform for other team to setup in-house app*
+
+    * Setup and configuration of a Kubernetes cluster
+    * Development of patch to Kubernetes to add new features
+    * Development of a tool to automate installation, with continuous intergration and test in cloud
+    * Setup, configuration,, monitoring and maintenance of a docker registry for locals apps
+    * Proxy architecture to replicate docker images
+    * Coaching of new Kubernetes users
+    * Integration of latest Kubernetes / Docker version to get the very last features
+
+    *Technical environment : Linux, Python, Kubernetes, Docker, Azure, Go, Portus, Gitlab, DigitalOcean, Ruby*
+
+
+- layout: left
+  company: Nuance Communications
+  #link: Link to company (optional)
+  dates: November 2015 - April 2016
+  job_title: Release and Continuous Integration Engineer
+  description: |
+
+    *Assignment: Sustain CI pipeline and improve reliability*
+
+    * Setup of a in-house monitoring system to detect server issues
+    * Use of container approach in CI to have stateless agent
+    * Unification of agent setup to get a homogenous infrastructure
+    * Deployment automation with configuration management tool from scratch
+
+    *Technical environment : Linux, Python, Salt, Docker, Bamboo, Sensu, Graphite, Grafana, Ruby*
+
+
+- layout: left
+  company: Savoir-faire Linux
+  #link: Link to company (optional)
+  job_title: Free Software Consultant
+  dates: April 2013 - November 2015
+  description: |
+
+    **Customer: Société de transport de Montréal**
+    ----------------------------------------------
+
+    *Assignment : Setup of a monitoring tool in a huge environnemnt*
+
+    * Setup the monitoring tool in dev env
+    * Development of tool generating configuration
+    * Monitoring plugins development
+    * Production support deployment
+    * Continuous integration tests
+    * Benchmarks, functional testing
+
+    *Technical environment : Linux, Python, Shinken, Graphite, Windows Server, WMI, VmWare, Talend, Ossec, Collectd, SNMP*
+
+    <br/>
+
+    **Customer: Société de développement de la Baie-James**
+    ----------------------------------------------------
+
+    *Assignment : Monitoring software update and hardware addition*
+
+    * Keep the software up to date with latest features
+    * Monitor new hardwares, servers, softwares.
+    * Custimization
+
+    *Technical environment: Linux, Python, Shinken, Thruk, Nagvis, Windows Server, WMI, VmWare, SNMP*
+
+    <br/>
+
+    **Customer: Société québécoise des infrastructures**
+    ----------------------------------------------------
+
+    *Assignment : Setup of a monitoring tool*
+
+    * Setup and customization (alerting, theshold)
+    * Custom development of monitoring plugins
+    * Formation materials
+
+    *Technical environment : Linux, Python, Shinken, Centreon, MySQL, PHP, Windows Server, WMI, VmWare*
