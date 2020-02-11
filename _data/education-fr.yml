@@ -1,0 +1,11 @@
+# Education Template
+- layout: left
+  name: Polytech'Grenoble
+  dates: 2009 - 2012
+  qualification: |
+   Ingénieur en Informatique <br/>
+    <i>Spécialité : Réseaux Informatique</i>
+  quote: >
+
+  description: |
+    Thèmes d'étude : Algorithmique, Architecture des Systèmes, Cryptographie, Base de Données, Génie Logiciel, Systèmes d'Exploitation, Réseaux, Communication, Gestion

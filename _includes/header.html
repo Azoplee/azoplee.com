@@ -5,6 +5,8 @@
       <h2>{{ site.title | escape }}</h2>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 header-right">
+        <a class="link-fr" href="{{ site.baseurl_root }}/">fr</a>
+        <a class="link-en" href="{{ site.baseurl_root }}/en">en</a>
       <ul class="icons no-print">
         {%- if site.dribbble_username -%}
           <li>
@@ -123,8 +125,8 @@
       {%- endif -%}
 
         <p>
-          Availability: {% if site.available %}<span style="color:green">Available </span>{% else %}<span style="color:red"> Not Available </span>{% endif %}
-          {{ site.next_availability | escape }}
+          {% translate titles.availability %}: {% if site.available %}<span style="color:green">{% translate titles.available %} </span>{% else %}<span style="color:red"> {% translate titles.not_available %} </span>{% endif %}
+          {% translate next_availability %}
         </p>
     </div>
   </div>

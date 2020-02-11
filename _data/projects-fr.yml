@@ -1,0 +1,26 @@
+- layout: left
+  name: L’Atelier Candide
+  link: lateliercandide.ca
+  dates: 2018 - présent
+  job_title: Automatisation de l’inventaire
+  description: |
+    *Automatisation de opération sur l’inventaire*
+
+      * Ajout et mise à jour de produits
+      * Applications automatique de promotions
+      * Détection de retard dans les livraisons de colis
+
+
+- layout: left
+  name: Alignak
+  job_title: Développeur principal
+  dates: 2015 - 2018
+  description: |
+    **Framework de supervision libre**
+
+    *Refonte majeure du logiciel pour suivre les standards de développement Python*
+
+      * Application des règles de style PEP8 et Pylint sur le code
+      * Ajout de tests fonctionnels et unitaires (non régression)
+      * Application des bonnes méthodes de développement (revue de code, analyse de qualité, CI)
+      * Packaging automatique

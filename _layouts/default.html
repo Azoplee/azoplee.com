@@ -16,15 +16,18 @@
 
       {%- include about.html -%}
 
-      {%- if site.data.experience.size > 0 -%}
+      {% assign experience = site.translations[site.lang]["experience"] %}
+      {%- if site["data"][experience].size > 0 -%}
         {%- include experience.html -%}
       {%- endif -%}
 
-      {%- if site.data.education.size > 0 -%}
+      {% assign education = site.translations[site.lang]["education"] %}
+      {%- if site["data"][education].size > 0 -%}
         {%- include education.html -%}
       {%- endif -%}
 
-      {%- if site.data.projects.size > 0 -%}
+      {% assign projects = site.translations[site.lang]["projects"] %}
+      {%- if site["data"][projects].size > 0 -%}
         {%- include projects.html -%}
       {%- endif -%}
 

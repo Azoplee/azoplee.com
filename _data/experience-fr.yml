@@ -1,0 +1,149 @@
+- layout: left
+  company: Azoplee.com
+  job_title: Senior Consultant
+  dates: Novembre 2019 - présent
+  description: |
+
+    **Client: Nokia**
+    -------------------
+
+    *Tâche: Plateforme de scaling*
+
+    * Migration of business application from ECS to Kubernetes
+    * Packaging and Deployment Automation
+    * Platform support and coaching
+
+    *Environnement technique : EKS, Helm, Gitlab, Openstack*
+
+    <br/>
+
+    **Client: (Temporairement non divulgé)**
+    -----------------------------------------
+
+    *Tâche: Migration d'une stack applicative d'une base docker à une architecture Kubernetes*
+
+    * Audit de l'architecture existante
+    * Preuve de concept avec une architecture Kubernetes
+    * Packaging and automatisation du déploiement
+
+    *Environnement technique : Kubernetes, Docker, DigitalOcean, Helm*
+
+- layout: left
+  company: Fon <br/> (précédemment XCellAir)
+  #link: Link to company (optional)
+  job_title: Senior Devops Engineer
+  dates: Mai 2017 - Novembre 2019
+  description: |
+
+    *Tâche: Plateforme cloud privée*
+
+    * Installation et configuration d'un serveur Openstack
+    * Design de l'architecture du cloud privé
+    * Déploiement et configuration d'Openstack avec Chef
+    * Contribution aux cookbooks Chef d'Openstack Chef pour supporter les dernières versions d'Openstack
+
+
+    *Tâche: Pipeline de CI/CD*
+
+    * Migration de dépôts de code sources à Gitlab Cloud et training des utilisateurs
+    * Design et implémentation de CI et CD avec GitlabCI
+    * Amelioration de la rapidité d'equipe avec boucle de rétroaction rapide
+    * Deploiement d’un gestionnaire d’artifact interne (Nexus)
+
+
+    *Tâche: Plateforme de scaling*
+
+    * Introduction de la technologie Docker dans la compagnie et training des utilisateurs
+    * Pilotage de l'effort de containérisation des applications métiers et de l'adoption de la technologie
+    * Introduction de Kubernetes comme solution de scaling nouvelle génération
+    * Deploiement de la stack containérisée dans AWS et Openstack (ECS, K8s, docker compose)
+
+
+    *Environnement technique : Kubernetes, Docker, AWS, Terraform, Gitlab, Openstack, Chef, Python, Linux*
+
+
+- layout: left
+  company: Nuance Communications
+  #link: Link to company (optional)
+  dates: Avril 2016 - Mai 2017
+  job_title: Devops Engineer
+  description: |
+
+    *Tâche: Mise a disposition d'une plateforme cloud pour l'installation d'application metier*
+
+    * Installation et configuration d'un cluster Kubernetes from scratch
+    * Developpement de patch pour Kubernetes afin d'ajouter des foncionnalités
+    * Développment d'un outil pour automatiser l'installation d'un cluster from scratch
+    * Mise en place d'un CI et et test unitaire pour l'outil d'installation
+    * Installation, configuration, supervision d'un registry d'image docker utilisé pour les applications locales en production
+    * Mise d'une architecture de proxy pour répliquer les images docker
+    * Coaching de nouveaux utilisateurs de Kubernetes
+    * Integration des nouvelles versions de Kubernetes / Docker etc à l'outil d'installation
+
+    *Environnement technique : Linux, Python, Kubernetes, Docker, Azure, Go, Portus, Gitlab, DigitalOcean, Ruby*
+
+
+- layout: left
+  company: Nuance Communications
+  #link: Link to company (optional)
+  dates: Novembre 2015 - Avril 2016
+  job_title: Release and Continuous Integration Engineer
+  description: |
+
+    *Tâche: Ameliration de la fiabilité du pipeline d'Integration Continue*
+
+    * Installation d'une solution de monitoring maison pour détecter les problèmes serveurs
+    * Mise en place du approche de container dans le CI pour avoir des agent stateless
+    * Standardisation de l'installation des agents de CI pour homogénéiser l'infrastructure
+    * Automatisation des déploiements avec un outil de gestion de configuration
+    * Implantation de Salt pour automatiser la configuration
+
+    *Environnement technique : Linux, Python, Salt, Docker, Bamboo, Sensu, Graphite, Grafana, Ruby*
+
+
+- layout: left
+  company: Savoir-faire Linux
+  #link: Link to company (optional)
+  job_title: Free Software Consultant
+  dates: Avril 2013 - Novembre 2015
+  description: |
+
+    **Client: Société de transport de Montréal**
+    ----------------------------------------------
+
+    *Tâche : Mise en place d'un outil de supervision dans une infrastructure de grande envergure*
+
+    * Installation de la solution de supervision en environnement de développement
+    * Réalisation d'outil de génération de configuration
+    * Développement de plugins de supervision
+    * Déploiement dans l’environnement exploitation
+    * Mise en place de tests d'intégration continue
+    * Tests de performances, tests fonctionnels
+
+    *Environnement technique : Linux, Python, Shinken, Graphite, Windows Server, WMI, VmWare, Talend, Ossec, Collectd, SNMP*
+
+    <br/>
+
+    **Client: Société de développement de la Baie-James**
+    ----------------------------------------------------
+
+    *Tâche : Mise à jour de l'outil de supervision et mise sous supervision de nouveaux équipements*
+
+    * Mise à jour de l'outil de supervision.
+    * Mise sous supervision de nouveaux équipements
+    * Ajustement de la supervision aux besoins
+    
+    *Environnement technique: Linux, Python, Shinken, Thruk, Nagvis, Windows Server, WMI, VmWare, SNMP*
+
+    <br/>
+
+    **Client: Société québécoise des infrastructures**
+    ----------------------------------------------------
+
+    *Tâche : Mise en place et configuration d'un outil de supervision*
+
+    * Installation de l'outil de supervision
+    * Développement de plugins de supervision
+    * Création de matériel de formation
+
+    *Environnement technique : Linux, Python, Shinken, Centreon, MySQL, PHP, Windows Server, WMI, VmWare*

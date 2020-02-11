@@ -1,4 +1,3 @@
-# Experience template
 - layout: left
   company: Azoplee.com
   job_title: Senior Consultant
@@ -18,14 +17,14 @@
 
     <br/>
 
-    **Customer: Undisclosed (for now)**
-    -----------------------------------
+    **Customer: (Temporary Undisclosed)**
+    -------------------------------------
 
     *Assignment: Stack migration from a Docker based architecture to a Kubernetes one*
 
     * Audit of existing architecture
     * Proof of concept with Kubernetes architecture
-    * Packagging and Deployment Automation
+    * Packaging and Deployment Automation
 
     *Technical environment : Kubernetes, Docker, DigitalOcean, Helm*
 
@@ -74,7 +73,8 @@
     * Setup and configuration of a Kubernetes cluster
     * Development of patch to Kubernetes to add new features
     * Development of a tool to automate installation, with continuous intergration and test in cloud
-    * Setup, configuration,, monitoring and maintenance of a docker registry for locals apps
+    * CI pipeline and unit tests of the setup tool
+    * Setup, configuration, monitoring and maintenance of a docker registry for locals apps
     * Proxy architecture to replicate docker images
     * Coaching of new Kubernetes users
     * Integration of latest Kubernetes / Docker version to get the very last features
