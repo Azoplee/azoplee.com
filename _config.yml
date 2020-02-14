@@ -1,5 +1,6 @@
 # Site
 #repository:
+url: https://azoplee.com
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 destination: ./docs
 
@@ -41,7 +42,7 @@ plugins:
 
 languages: ["fr", "en"]
 
-exclude_from_localizations: ["javascript", "images", "css", "favicon.ico"]
+exclude_from_localizations: ["javascript", "images", "css", "favicon.ico", "docs"]
 
 exclude : [
   "Gemfile",

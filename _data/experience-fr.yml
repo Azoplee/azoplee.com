@@ -9,9 +9,9 @@
 
     *Tâche: Plateforme de scaling*
 
-    * Migration of business application from ECS to Kubernetes
-    * Packaging and Deployment Automation
-    * Platform support and coaching
+    * Migration d'une application metier de ECS à Kubernetes
+    * Packaging et automatisation du déploiement
+    * Support de la plateforme et coaching
 
     *Environnement technique : EKS, Helm, Gitlab, Openstack*
 
@@ -24,7 +24,7 @@
 
     * Audit de l'architecture existante
     * Preuve de concept avec une architecture Kubernetes
-    * Packaging and automatisation du déploiement
+    * Packaging et automatisation du déploiement
 
     *Environnement technique : Kubernetes, Docker, DigitalOcean, Helm*
 
