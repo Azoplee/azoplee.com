@@ -42,7 +42,7 @@ plugins:
 
 languages: ["fr", "en"]
 
-exclude_from_localizations: ["javascript", "images", "css", "favicon.ico", "docs"]
+exclude_from_localizations: ["javascript", "images", "css", "favicon.ico", "docs", "Makefile", "pdf"]
 
 exclude : [
   "Gemfile",
@@ -54,4 +54,5 @@ exclude : [
   "vendor/ruby/",
   "lib/",
   "scripts/",
+  "Makefile",
   ]
