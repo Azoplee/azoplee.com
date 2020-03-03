@@ -6,7 +6,8 @@ destination: ./docs
 
 # Personal info
 name: Sébastien Coavoux
-title: Devops, Kubernetes, GNU/Linux
+# Only used for SEO, no translation
+title: Consultant, Devops, Kubernetes, CI/CD
 email: contact@azoplee.com
 #phone: Your phone number (optional)
 #website: Your website (eg. https://google.com)(optional)
