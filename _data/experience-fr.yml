@@ -4,17 +4,16 @@
   dates: Novembre 2019 - présent
   description: |
 
-    **Client: Nokia**
-    -------------------
+    **Client: (Temporairement non divulgé)**
+    -----------------------------------------
 
-    *Tâche: Plateforme de scaling*
+    *Tâche: Audit d'une stack Kubernetes et introduction de Helm*
 
-    * Migration d'une application metier de ECS à Kubernetes
-    * Packaging et automatisation du déploiement
-    * Support de la plateforme et coaching
+    * Audit de l'architure existante le Cloud Google
+    * Detection et amélioration des problème de design et sécurité
+    * Amélioration du pipeline de CI/CD avec Helm
 
-    *Environnement technique : EKS, Helm, Gitlab, Openstack*
-
+    *Environnement technique : Google Cloud Platform, GKE, Cloud Endpoint, Helm*
     <br/>
 
     **Client: (Temporairement non divulgé)**
@@ -26,7 +25,23 @@
     * Preuve de concept avec une architecture Kubernetes
     * Packaging et automatisation du déploiement
 
-    *Environnement technique : Kubernetes, Docker, DigitalOcean, Helm*
+    *Environnement technique : Kubernetes, Docker, DigitalOcean, Helm, Ansible*
+    <br/>
+
+    **Client: Nokia**
+    -------------------
+
+    *Tâche: Plateforme de scaling*
+
+    * Migration d'une application metier de ECS à Kubernetes
+    * Packaging et automatisation du déploiement
+    * Support de la plateforme et coaching
+
+    *Environnement technique : EKS, Helm, Gitlab, Openstack, Terraform*
+
+    <br/>
+
+
 
 - layout: left
   company: Fon <br/> (précédemment XCellAir)
@@ -59,7 +74,7 @@
     * Deploiement de la stack containérisée dans AWS et Openstack (ECS, K8s, docker compose)
 
 
-    *Environnement technique : Kubernetes, Docker, AWS, Terraform, Gitlab, Openstack, Chef, Python, Linux*
+    *Environnement technique : Kubernetes, Docker, AWS, Terraform, Gitlab, Openstack, Chef, Bitbucket, Jenkins, Python, Linux*
 
 
 - layout: left

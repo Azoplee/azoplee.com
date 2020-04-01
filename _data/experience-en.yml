@@ -4,17 +4,16 @@
   dates: November 2019 - present
   description: |
 
-    **Customer: Nokia**
-    -------------------
+    **Customer: (Temporary Undisclosed)**
+    -------------------------------------
 
-    *Assignment: Scaling Platform*
+    *Assignment: Kubernetes-based stack Audit and Helm setup*
 
-    * Migration of business application from ECS to Kubernetes
-    * Packaging and Deployment Automation
-    * Platform support and coaching
+    * Audit of existing architecture in Google Cloud
+    * Detection and fixes of design and security issues
+    * CI/CD pipeline improvemnt with Helm
 
-    *Technical environment : EKS, Helm, Gitlab, Openstack*
-
+    *Technical environment : Google Cloud Platform, GKE, Cloud Endpoint, Helm*
     <br/>
 
     **Customer: (Temporary Undisclosed)**
@@ -26,7 +25,21 @@
     * Proof of concept with Kubernetes architecture
     * Packaging and Deployment Automation
 
-    *Technical environment : Kubernetes, Docker, DigitalOcean, Helm*
+    *Technical environment : Kubernetes, Docker, DigitalOcean, Helm, Ansible*
+    <br/>
+
+    **Customer: Nokia**
+    -------------------
+
+    *Assignment: Scaling Platform*
+
+    * Migration of business application from ECS to Kubernetes
+    * Packaging and Deployment Automation
+    * Platform support and coaching
+
+    *Technical environment : EKS, Helm, Gitlab, Openstack, Terraform*
+
+
 
 - layout: left
   company: Fon <br/> (previously XCellAir)
@@ -58,7 +71,7 @@
     * Introduction of Kubernetes as next generation scaling solution
     * Deployment of containerized stack in AWS and Openstack (ECS, K8s, docker compose)
 
-    *Technical environment : Kubernetes, Docker, AWS, Terraform, Gitlab, Openstack, Chef, Python, Linux*
+    *Technical environment : Kubernetes, Docker, AWS, Terraform, Gitlab, Openstack, Chef, Bitbucket, Jenkins, Python, Linux*
 
 
 - layout: left

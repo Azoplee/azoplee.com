@@ -2,13 +2,20 @@
   name: L’Atelier Candide
   link: lateliercandide.ca
   dates: 2018 - present
-  job_title: Inventory automation
+  job_title: Business Process Engineering
   description: |
     *Inventory operations automation*
 
       * Product additions and updates
       * Apply discount automatically
       * Delays detection on shippings
+      * Product quantity sync between multiple website
+
+    *Client data export*
+      * Data fetching from Google Analytics
+      * Data consolidation for predictive model algorithms
+
+    *Technical environment : Python, Google Analytics, Shopify*
 
 
 - layout: left
@@ -24,3 +31,5 @@
       * Functional and unit test additions
       * Setup of development best practices (continuous integration, code review, code quality analysis)
       * Packaging automation
+
+    *Technical environment : Python, Travis, Docker, Dpkg*

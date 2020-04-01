@@ -2,14 +2,20 @@
   name: L’Atelier Candide
   link: lateliercandide.ca
   dates: 2018 - présent
-  job_title: Automatisation de l’inventaire
+  job_title: Ingénérie des Processus Metiers
   description: |
-    *Automatisation de opération sur l’inventaire*
+    *Automatisation des opérations sur l’inventaire*
 
       * Ajout et mise à jour de produits
-      * Applications automatique de promotions
+      * Applications automatiques de promotions
       * Détection de retard dans les livraisons de colis
+      * Syncronisation des quantités à travers des sites multiples
 
+    *Export de données client*
+      * Récupération de données de Google Analytics
+      * Consolidation des données pour application de modèles de prédiction statistiques
+
+    *Environnement technique : Python, Google Analytics, Shopify*
 
 - layout: left
   name: Alignak
@@ -24,3 +30,5 @@
       * Ajout de tests fonctionnels et unitaires (non régression)
       * Application des bonnes méthodes de développement (revue de code, analyse de qualité, CI)
       * Packaging automatique
+
+    *Environnement technique : Python, Travis, Docker, Dpkg*
