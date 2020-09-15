@@ -9,7 +9,7 @@
 
     *Tâche: Audit d'une stack Kubernetes et introduction de Helm*
 
-    * Audit de l'architure existante le Cloud Google
+    * Audit de l'architecture existante sur Cloud Google
     * Detection et amélioration des problème de design et sécurité
     * Amélioration du pipeline de CI/CD avec Helm
 
@@ -21,7 +21,8 @@
 
     *Tâche: Migration d'une stack applicative d'une base docker à une architecture Kubernetes*
 
-    * Audit de l'architecture existante
+    * Audit de l'architecture existante sur DigitalOcean
+    * Audit des playbooks Ansible pour provisionner et configer les droplets
     * Preuve de concept avec une architecture Kubernetes
     * Packaging et automatisation du déploiement
 
@@ -36,8 +37,9 @@
     * Migration d'une application metier de ECS à Kubernetes
     * Packaging et automatisation du déploiement
     * Support de la plateforme et coaching
+    * Ajout de dashboards de monitoring et logs (ELK)
 
-    *Environnement technique : EKS, Helm, Gitlab, Openstack, Terraform*
+    *Environnement technique : EKS, Helm, Gitlab, Openstack, Terraform, ELK*
 
     <br/>
 
@@ -54,16 +56,19 @@
 
     * Installation et configuration d'un serveur Openstack
     * Design de l'architecture du cloud privé
+    * Choix de la technologie pour déployer Openstsack (Ansible vs Chef)
     * Déploiement et configuration d'Openstack avec Chef
     * Contribution aux cookbooks Chef d'Openstack Chef pour supporter les dernières versions d'Openstack
 
 
     *Tâche: Pipeline de CI/CD*
 
-    * Migration de dépôts de code sources à Gitlab Cloud et training des utilisateurs
+    * Migration de dépôts de code sources de Bitbucket / Jenkins à Gitlab Cloud et training des utilisateurs
     * Design et implémentation de CI et CD avec GitlabCI
     * Amelioration de la rapidité d'equipe avec boucle de rétroaction rapide
+    * Analyse statique de code avec SonarQube
     * Deploiement d’un gestionnaire d’artifact interne (Nexus)
+    * Configuration et sécuration de Nexus (Docker registry, HTTPS)
 
 
     *Tâche: Plateforme de scaling*
@@ -71,10 +76,11 @@
     * Introduction de la technologie Docker dans la compagnie et training des utilisateurs
     * Pilotage de l'effort de containérisation des applications métiers et de l'adoption de la technologie
     * Introduction de Kubernetes comme solution de scaling nouvelle génération
+    * Etude des technologies de déploiement de Kubernetes (Kubespray vs Kops vs EKS vs Terraform + Kubeadm)
     * Deploiement de la stack containérisée dans AWS et Openstack (ECS, K8s, docker compose)
 
 
-    *Environnement technique : Kubernetes, Docker, AWS, Terraform, Gitlab, Openstack, Chef, Bitbucket, Jenkins, Python, Linux*
+    *Environnement technique : Kubernetes, AWS, Terraform, Gitlab, Openstack, Chef, Jenkins, Python, Jira*
 
 
 - layout: left
@@ -148,7 +154,7 @@
     * Mise sous supervision de nouveaux équipements
     * Ajustement de la supervision aux besoins
     
-    *Environnement technique: Linux, Python, Shinken, Thruk, Nagvis, Windows Server, WMI, VmWare, SNMP*
+    *Environnement technique: Linux, Python, Shinken, Thruk, Nagvis, Windows Server, WMI, vSphere, SNMP*
 
     <br/>
 
@@ -161,5 +167,5 @@
     * Développement de plugins de supervision
     * Création de matériel de formation
 
-    *Environnement technique : Linux, Python, Shinken, Centreon, MySQL, PHP, Windows Server, WMI, VmWare*
+    *Environnement technique : Linux, Python, Shinken, Centreon, MySQL, PHP, Windows Server, WMI, vSphere*
 

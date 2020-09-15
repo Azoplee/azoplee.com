@@ -1,5 +1,5 @@
 <div class="container education-container">
-  <h3 style="page-break-before: always">{% translate titles.education %}</h3>
+  <h3>{% translate titles.education %}</h3>
   {% assign educations = site.translations[site.lang]["education"] %}
   {% for education in site.data.[educations] %}
     {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
