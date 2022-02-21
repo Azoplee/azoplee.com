@@ -4,7 +4,50 @@
   dates: November 2019 - present
   description: |
 
-    **Customer: (Temporary Undisclosed)**
+    **Client: Bell**
+    -----------------------------------------
+
+    *Assignment: Node migration in a Kubernetes cluster*
+
+    * Cluster node addition
+    * Reinstall of physical nodes
+    * Maintain cluster operation while migrating
+
+
+    *Technical environment : Linux, RKE, Ansible, Helm*
+    <br/>
+
+
+    *Assignment: Tooling and pipeline improvemnts*
+
+    * Add, update and deploy charts
+    * Configuration deployment automation with ArgoCD
+    * Template standard configuration for new clusters
+
+    *Technical environment : Gitlab, Helm, Openshift, ArgoCD, ELK, Kafka*
+    <br/>
+
+
+    *Assignment: Support of new tenants on Openshift environments*
+
+    * Tenant onboarding
+    * Teach Kubernetes best ptractices
+    * Business configuration setup
+
+    *Technical environment : Openshift, BGP, Envoy, Helm, ArgoCD*
+    <br/><br/><br/>
+
+
+    *Assignment: Public cloud strategy adoption*
+
+    * Proof of concept in various cloud provider
+    * Roles and responsibility definition within internal teams
+    * Support strategy based on tenant expertise
+
+    *Technical environment : AWS, GCP, Rosa*
+    <br/><br/>
+
+    **Customer: Axceta**
     -------------------------------------
 
     *Assignment: Kubernetes-based stack Audit and Helm setup*
@@ -14,9 +57,9 @@
     * CI/CD pipeline improvemnt with Helm
 
     *Technical environment : Google Cloud Platform, GKE, Cloud Endpoint, Helm*
-    <br/>
+    <br/><br/>
 
-    **Customer: (Temporary Undisclosed)**
+    **Customer: Numigi**
     -------------------------------------
 
     *Assignment: Stack migration from a Docker based architecture to a Kubernetes one*
@@ -26,7 +69,7 @@
     * Packaging and Deployment Automation
 
     *Technical environment : Kubernetes, Docker, DigitalOcean, Helm, Ansible*
-    <br/>
+    <br/><br/>
 
     **Customer: Nokia**
     -------------------
@@ -38,6 +81,8 @@
     * Platform support and coaching
 
     *Technical environment : EKS, Helm, Gitlab, Openstack, Terraform*
+
+    <p style="page-break-after: always;">&nbsp;</p>
 
 
 
@@ -94,6 +139,7 @@
 
     *Technical environment : Linux, Python, Kubernetes, Docker, Azure, Go, Portus, Gitlab, DigitalOcean, Ruby*
 
+    <p style="page-break-after: always;">&nbsp;</p>
 
 - layout: left
   company: Nuance Communications
@@ -131,9 +177,8 @@
     * Continuous integration tests
     * Benchmarks, functional testing
 
-    *Technical environment : Linux, Python, Shinken, Graphite, Windows Server, WMI, VmWare, Talend, Ossec, Collectd, SNMP*
+    *Technical environment : Linux, Python, Shinken, Graphite, WMI, Talend, Ossec, Collectd, SNMP*
 
-    <br/>
 
     **Customer: Société de développement de la Baie-James**
     ----------------------------------------------------
@@ -146,7 +191,6 @@
 
     *Technical environment: Linux, Python, Shinken, Thruk, Nagvis, Windows Server, WMI, VmWare, SNMP*
 
-    <br/>
 
     **Customer: Société québécoise des infrastructures**
     ----------------------------------------------------
@@ -158,4 +202,3 @@
     * Formation materials
 
     *Technical environment : Linux, Python, Shinken, Centreon, MySQL, PHP, Windows Server, WMI, VmWare*
-

@@ -5,7 +5,7 @@
   qualification: |
     Computer Science Engineer <br/>
     <i>Major : Networks and Systems</i>
-  quote: >
+  #quote: >
 
-  description: | # this will include new lines to allow paragraphs
+  description: |
     Key modules : Algorithms, Systems architecture, Cryptography, Databases, Software engineering, Operating Systems, Networks, Communication, Management.

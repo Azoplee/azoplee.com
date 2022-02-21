@@ -4,7 +4,52 @@
   dates: Novembre 2019 - présent
   description: |
 
-    **Client: (Temporairement non divulgé)**
+    <span style="page-break-inside: avoid">
+
+    **Client: Bell**
+    -----------------------------------------
+
+    *Tâche: Migration de noeuds d'un cluster Kubernetes*
+
+    * Addition de nouveau noeud dans un cluster Kubernetes
+    * Reinstallation des noeuds physique du cluster
+    * Maintien des applications operationnelles pendant la migration
+
+    *Environnement technique : Linux, RKE, Ansible, Helm*
+    <br/>
+
+
+    *Tâche: Amelioration du pipeline d'installation et de l'outillage*
+
+    * Ajout, modification, déploiement de charts
+    * Automatisation des deploiements de configuration avec ArgoCD
+    * Creation d'un standard de configuration pour les nouveaux clusters
+
+    *Environnement technique : Gitlab, Helm, Openshift, ArgoCD, ELK, Kafka*
+    <p style="page-break-after: always;">&nbsp;</p>
+
+
+    *Tâche: Accompagnement de nouveau clients interne sur des environnements Openshift*
+
+    * Accueil et intégration de client dans les cluster
+    * Initiation aux meilleurs pratiques Kubernetes
+    * Déploiement de configuration pour des besoins d'affaire
+
+    *Environnement technique : Openshift, BGP, Envoy, Helm, ArgoCD*
+    <br/>
+
+
+    *Tâche: Mise en oeuvre d'une strategie d'adoption du Cloud publique*
+
+    * Realisation de preuves de concept dans differents fournisseurs de Cloud
+    * Définition des roles et responsabilités des equipes internes
+    * Définition d'une strategie d'accompagnement des utilisateurs selon leur expertise
+
+    *Environnement technique : AWS, GCP, Rosa*
+    <br/><br/>
+
+
+    **Client: Axceta**
     -----------------------------------------
 
     *Tâche: Audit d'une stack Kubernetes et introduction de Helm*
@@ -14,9 +59,9 @@
     * Amélioration du pipeline de CI/CD avec Helm
 
     *Environnement technique : Google Cloud Platform, GKE, Cloud Endpoint, Helm*
-    <br/>
+    <br/><br/>
 
-    **Client: (Temporairement non divulgé)**
+    **Client: Numigi**
     -----------------------------------------
 
     *Tâche: Migration d'une stack applicative d'une base docker à une architecture Kubernetes*
@@ -27,7 +72,7 @@
     * Packaging et automatisation du déploiement
 
     *Environnement technique : Kubernetes, Docker, DigitalOcean, Helm, Ansible*
-    <br/>
+    <br/><br/>
 
     **Client: Nokia**
     -------------------
@@ -44,9 +89,8 @@
     <br/>
 
 
-
 - layout: left
-  company: Fon <br/> (précédemment XCellAir)
+  company: Fon <br/> (ancient XCellAir)
   #link: Link to company (optional)
   job_title: Senior Devops Engineer
   dates: Mai 2017 - Novembre 2019
@@ -82,6 +126,7 @@
 
     *Environnement technique : Kubernetes, AWS, Terraform, Gitlab, Openstack, Chef, Jenkins, Python, Jira*
 
+    <p style="page-break-after: always;">&nbsp;</p>
 
 - layout: left
   company: Nuance Communications
@@ -121,6 +166,7 @@
 
     *Environnement technique : Linux, Python, Salt, Docker, Bamboo, Sensu, Graphite, Grafana, Ruby*
 
+    <p style="page-break-after: always;">&nbsp;</p>
 
 - layout: left
   company: Savoir-faire Linux
@@ -143,7 +189,6 @@
 
     *Environnement technique : Linux, Python, Shinken, Graphite, Windows Server, WMI, VmWare, Talend, Ossec, Collectd, SNMP*
 
-    <br/>
 
     **Client: Société de développement de la Baie-James**
     ----------------------------------------------------
@@ -156,7 +201,6 @@
     
     *Environnement technique: Linux, Python, Shinken, Thruk, Nagvis, Windows Server, WMI, vSphere, SNMP*
 
-    <br/>
 
     **Client: Société québécoise des infrastructures**
     ----------------------------------------------------
@@ -168,4 +212,5 @@
     * Création de matériel de formation
 
     *Environnement technique : Linux, Python, Shinken, Centreon, MySQL, PHP, Windows Server, WMI, vSphere*
+
 

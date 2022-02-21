@@ -10,4 +10,4 @@ regen_pdf:
 	weasyprint -q -u https://azoplee.com http://localhost:4000/en pdf/portfolio_en.pdf
 	pkill -2 -f jekyll
 
-regen: regen_pdf regen_site
+regen: regen_site

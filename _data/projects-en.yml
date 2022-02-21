@@ -7,16 +7,11 @@
     *Inventory operations automation*
 
       * Product additions and updates
-      * Apply discount automatically
       * Delays detection on shippings
       * Product quantity sync between multiple website
+      * Detect inventory difference and protuct to order again
 
-    *Client data export*
-      * Data fetching from Google Analytics
-      * Data consolidation for predictive model algorithms
-
-    *Technical environment : Python, Google Analytics, Shopify*
-
+    *Technical environment : Python, Google Analytics, Shopify, GraphQL*
 
 - layout: left
   name: Alignak

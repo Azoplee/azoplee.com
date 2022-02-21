@@ -4,18 +4,14 @@
   dates: 2018 - présent
   job_title: Ingénérie des Processus Metiers
   description: |
-    *Automatisation des opérations sur l’inventaire*
+    *Automatisation des opérations*
 
-      * Ajout et mise à jour de produits
-      * Applications automatiques de promotions
+      * Ajout, mise à jour de produits de l'inventaire
       * Détection de retard dans les livraisons de colis
       * Syncronisation des quantités à travers des sites multiples
+      * Suivi des différence d'inventaire et des produit à recommander
 
-    *Export de données client*
-      * Récupération de données de Google Analytics
-      * Consolidation des données pour application de modèles de prédiction statistiques
-
-    *Environnement technique : Python, Google Analytics, Shopify*
+    *Environnement technique : Python, Google Analytics, Shopify, GraphQL*
 
 - layout: left
   name: Alignak
