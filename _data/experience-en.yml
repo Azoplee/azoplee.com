@@ -4,6 +4,19 @@
   dates: November 2019 - present
   description: |
 
+    **Client: Erudit**
+    -----------------------------------------
+
+    *Assignment: Platform Migration*
+
+    * Business apps containerization with Podman
+    * CI/CD architecture
+    * Packaging and Deployment Automation
+
+
+    *Technical environment : Podman, Ansible, Gitlab, Openstack*
+    <br/><br/>
+
     **Client: Bell**
     -----------------------------------------
 
@@ -15,7 +28,7 @@
 
 
     *Technical environment : Linux, RKE, Ansible, Helm*
-    <br/>
+    <br/><br/><br/><br/>
 
 
     *Assignment: Tooling and pipeline improvemnts*
@@ -35,7 +48,6 @@
     * Business configuration setup
 
     *Technical environment : Openshift, BGP, Envoy, Helm, ArgoCD*
-    <br/><br/><br/>
 
 
     *Assignment: Public cloud strategy adoption*
@@ -69,7 +81,7 @@
     * Packaging and Deployment Automation
 
     *Technical environment : Kubernetes, Docker, DigitalOcean, Helm, Ansible*
-    <br/><br/>
+    <br/><br/><br/><br/><br/><br/><br/>
 
     **Customer: Nokia**
     -------------------
@@ -82,8 +94,7 @@
 
     *Technical environment : EKS, Helm, Gitlab, Openstack, Terraform*
 
-    <p style="page-break-after: always;">&nbsp;</p>
-
+    <br/>
 
 
 - layout: left
@@ -117,7 +128,7 @@
     * Deployment of containerized stack in AWS and Openstack (ECS, K8s, docker compose)
 
     *Technical environment : Kubernetes, Docker, AWS, Terraform, Gitlab, Openstack, Chef, Bitbucket, Jenkins, Python, Linux*
-
+    <p style="page-break-after: always;">&nbsp;</p>
 
 - layout: left
   company: Nuance Communications
@@ -139,7 +150,6 @@
 
     *Technical environment : Linux, Python, Kubernetes, Docker, Azure, Go, Portus, Gitlab, DigitalOcean, Ruby*
 
-    <p style="page-break-after: always;">&nbsp;</p>
 
 - layout: left
   company: Nuance Communications
@@ -157,6 +167,7 @@
 
     *Technical environment : Linux, Python, Salt, Docker, Bamboo, Sensu, Graphite, Grafana, Ruby*
 
+    <p style="page-break-after: always;">&nbsp;</p>
 
 - layout: left
   company: Savoir-faire Linux
