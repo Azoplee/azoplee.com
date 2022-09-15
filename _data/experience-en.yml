@@ -4,7 +4,7 @@
   dates: November 2019 - present
   description: |
 
-    **Client: Erudit**
+    **Client: Erudit** - March 2022 to July 2022
     -----------------------------------------
 
     *Assignment: Platform Migration*
@@ -17,7 +17,7 @@
     *Technical environment : Podman, Ansible, Gitlab, Openstack*
     <br/><br/>
 
-    **Client: Bell**
+    **Client: Bell** - June 2020 to June 2022
     -----------------------------------------
 
     *Assignment: Node migration in a Kubernetes cluster*
@@ -59,19 +59,19 @@
     *Technical environment : AWS, GCP, Rosa*
     <br/><br/>
 
-    **Customer: Axceta**
+    **Customer: Axceta** - February 2020 to May 2020
     -------------------------------------
 
     *Assignment: Kubernetes-based stack Audit and Helm setup*
 
     * Audit of existing architecture in Google Cloud
     * Detection and fixes of design and security issues
-    * CI/CD pipeline improvemnt with Helm
+    * CI/CD pipeline improvement with Helm
 
     *Technical environment : Google Cloud Platform, GKE, Cloud Endpoint, Helm*
     <br/><br/>
 
-    **Customer: Numigi**
+    **Customer: Numigi** - December 2019 to February 2020
     -------------------------------------
 
     *Assignment: Stack migration from a Docker based architecture to a Kubernetes one*
@@ -83,7 +83,7 @@
     *Technical environment : Kubernetes, Docker, DigitalOcean, Helm, Ansible*
     <br/><br/><br/><br/><br/><br/><br/>
 
-    **Customer: Nokia**
+    **Customer: Nokia** - November 2019 to February 2020
     -------------------
 
     *Assignment: Scaling Platform*
