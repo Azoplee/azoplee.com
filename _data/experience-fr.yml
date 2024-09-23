@@ -2,10 +2,57 @@
   company: Azoplee.com
   job_title: Senior Consultant
   dates: Novembre 2019 - présent
-  description: |
+  description: |  
+    **Client: Bayer** - Avril 2023 à Décembre 2023
+    ----------------------------------------------
+      
+    *Mission : Creation d'un logiciel dans le domaine de l'horticulture*
+
+    *Tâche : Architecture de l'infrastructure cloud*
+   
+    
+    * Conception de la solution d'infrastructure dans un cloud Azure
+    * Integration d'un pipeline IOT dans l'architecture
+    * Integration Azure des composants pour une approche sans mot de passe
+
+    *Tâche : Acceleration du prototypage*
+    
+    * Ajout d'un pipeline de CI/CD pour chaque microservice
+    * Automatisation des déploiements dans Azure pour une approche GitOps
+    * Déploiement multi environnement
+
+    *Tâche : Integration d'API interne*
+    
+    * Analyse et traduction des besoins d'affaires
+    * Analyse des limitations de l'API
+    * Preuve de concept d’intégration et validation
+
+    *Environnement technique : Azure, Azure Containers App, Gitlab, Azure functions, SQL server, Postgresql, Graphql, Terraform, Azure Data Explorer, Event hub, Cosmosdb*
+    <br/><br/>
+    
+    **Client: Alayacare** - Octobre 2022 à Mars 2023
+    ------------------------------------------------
+
+    *Tâche : Optimisation des coûts des workloads Kubernetes*
+    * Mise en place d'autoscaler basé sur l'utilisation CPU des applications
+    * Analyse des métriques historiques et ajustement des seuils de déclenchement
+    * Reduction de 10% des coûts des noeuds des clusters Kubernetes
+  
+    *Tâche : Analyse de problème de stabilité des applications*
+     * Analyse du throttling CPU des applications par Kubernetes
+     * Analyse des ressources systèmes réservées par les noeuds Kubernetes 
+     * Recommendation d'ajout de quotas applicatif et système
+  
+    *Tâche : Déploiements applicatifs*
+     * Ajout de onetimesecret interne 
+     * Mise à niveau des applications de logging
+     * Integration des roles AWS avec Kubernetes
+  
+    *Environnement technique : Aws, Kubernetes, argocd, falco, helm, github actions, cloudformation, ruby, python, secret management*
+    <br/><br/>
 
     **Client: Erudit** - Mars 2022 à Juillet 2022
-    -----------------------------------------
+    ---------------------------------------------
 
     *Tâche: Migration de Plateforme*
 
@@ -26,7 +73,6 @@
     * Maintien des applications operationnelles pendant la migration
 
     *Environnement technique : Linux, RKE, Ansible, Helm*
-    <br/><br/><br/>
 
 
     *Tâche: Amelioration du pipeline d'installation et de l'outillage*
@@ -36,7 +82,7 @@
     * Creation d'un standard de configuration pour les nouveaux clusters
 
     *Environnement technique : Gitlab, Helm, Openshift, ArgoCD, ELK, Kafka*
-    <br/>
+
 
     *Tâche: Accompagnement de nouveau clients interne sur des environnements Openshift*
 
@@ -45,7 +91,6 @@
     * Déploiement de configuration pour des besoins d'affaire
 
     *Environnement technique : Openshift, BGP, Envoy, Helm, ArgoCD*
-    <br/>
 
 
     *Tâche: Mise en oeuvre d'une strategie d'adoption du Cloud publique*
@@ -81,7 +126,7 @@
     * Packaging et automatisation du déploiement
 
     *Environnement technique : Kubernetes, Docker, DigitalOcean, Helm, Ansible*
-    <br/><br/><br/><br/><br/><br/>
+    <br/><br/>
 
     **Client: Nokia** - Novembre 2019 à Fevrier 2020
     -------------------
@@ -95,7 +140,7 @@
 
     *Environnement technique : EKS, Helm, Gitlab, Openstack, Terraform, ELK*
 
-    <br/>
+    <br/><br/>
 
 
 - layout: left

@@ -3,9 +3,52 @@
   job_title: Senior Consultant
   dates: November 2019 - present
   description: |
+    **Client: Bayer** - April 2023 to December 2023
+    -----------------------------------------------
+
+    *Mission : Software build in the horticulture industry*
+    
+    *Assignment : Cloud infrastructure architecture*
+    * Design infrastructure solution in Azure 
+    * IOT pipeline integration
+    * Azure integration to achieve passwordless approach
+    
+    *Assignment : Enable developers fast protyping*
+    * CI/CD pipeline for each microservice
+    * Deployment automation in Azure to achieve GitOps approach
+    * Multi environment deployment
+    
+    *Assignment : Internal API integration*
+    * Business analysis and tranduction of need
+    * API limitation analysis
+    * Integration POC and validation
+    
+    *Technical environment : Azure, Azure Containers App, Gitlab, Azure functions, SQL server, Postgresql, Graphql, Terraform, Azure Data Explorer, Event hub, Cosmosdb*
+    <br/><br/>
+
+    **Client: Alayacare** - October 2022 to March 2023
+    --------------------------------------------------
+
+    *Assignment : Cost optimization of Kubernetes workloads*
+    * Setup of CPU based autoscaling for microservices
+    * Analysis of historical metrics to define appropriate thresholds
+    * 10% cost decrease on Kubernetes nodes infrastructure
+    
+    *Assignment : Application stability issue analysis*
+     * CPU throttling analysis of Kubernetes apps
+     * Analysis of resource allocated for Kubernetes nodes
+     * Recommendation on quotas and resources usage
+    
+    *Assignment : Application deployments*
+     * Self hosted onetimesecret deployment
+     * Logging stack upgrade
+     * IAM role integration with avec Kubernetes service accounts
+    
+    *Technical environment : Aws, Kubernetes, argocd, falco, helm, github actions, cloudformation, ruby, python, secret management*
+    <br/><br/>
 
     **Client: Erudit** - March 2022 to July 2022
-    -----------------------------------------
+    --------------------------------------------
 
     *Assignment: Platform Migration*
 
@@ -28,8 +71,6 @@
 
 
     *Technical environment : Linux, RKE, Ansible, Helm*
-    <br/><br/><br/><br/>
-
 
     *Assignment: Tooling and pipeline improvemnts*
 
@@ -38,8 +79,6 @@
     * Template standard configuration for new clusters
 
     *Technical environment : Gitlab, Helm, Openshift, ArgoCD, ELK, Kafka*
-    <br/>
-
 
     *Assignment: Support of new tenants on Openshift environments*
 
@@ -81,7 +120,7 @@
     * Packaging and Deployment Automation
 
     *Technical environment : Kubernetes, Docker, DigitalOcean, Helm, Ansible*
-    <br/><br/><br/><br/><br/><br/><br/>
+    <br/><br/>
 
     **Customer: Nokia** - November 2019 to February 2020
     -------------------
@@ -94,7 +133,7 @@
 
     *Technical environment : EKS, Helm, Gitlab, Openstack, Terraform*
 
-    <br/>
+    <br/><br/>
 
 
 - layout: left
