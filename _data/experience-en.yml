@@ -3,9 +3,23 @@
   job_title: Senior Consultant
   dates: November 2019 - present
   description: |
-    **Client: Bayer** - April 2023 to December 2023
-    -----------------------------------------------
+    In addition to the missions detailed below, I was able to contribute to several open-source projects:
+    * Prometheus (Exporters - Go)
+    * Terraform (Provider - Go)
+    * Pipenv (Python)
+    * Onetimesecret (Ruby)
+    * Salt (Python)
+    * Chef (Openstack Cookbooks - Ruby)
+    * Kubernetes (Dashboard - Go)
+    * Ansible (Collections - Bug report)
+    * Podman (Bug report)
+    <p style="page-break-after: always;">&nbsp;</p>
 
+- layout: left
+  company: Bayer (for Azoplee)
+  job_title: Senior Solution Architect and Devops
+  dates: April 2023 to December 2023
+  description: |
     *Mission : Software build in the horticulture industry*
     
     *Assignment : Cloud infrastructure architecture*
@@ -13,22 +27,24 @@
     * IOT pipeline integration
     * Azure integration to achieve passwordless approach
     
-    *Assignment : Enable developers fast protyping*
+    *Assignment : Enable developers fast prototyping*
     * CI/CD pipeline for each microservice
     * Deployment automation in Azure to achieve GitOps approach
     * Multi environment deployment
     
     *Assignment : Internal API integration*
-    * Business analysis and tranduction of need
+    * Business analysis and translation of need
     * API limitation analysis
     * Integration POC and validation
     
     *Technical environment : Azure, Azure Containers App, Gitlab, Azure functions, SQL server, Postgresql, Graphql, Terraform, Azure Data Explorer, Event hub, Cosmosdb*
-    <br/><br/>
+    <br/>
 
-    **Client: Alayacare** - October 2022 to March 2023
-    --------------------------------------------------
-
+- layout: left
+  company: Alayacare (for Azoplee)
+  job_title: Senior Devops Engineer
+  dates: October 2022 to March 2023
+  description: |
     *Assignment : Cost optimization of Kubernetes workloads*
     * Setup of CPU based autoscaling for microservices
     * Analysis of historical metrics to define appropriate thresholds
@@ -42,13 +58,16 @@
     *Assignment : Application deployments*
      * Self hosted onetimesecret deployment
      * Logging stack upgrade
-     * IAM role integration with avec Kubernetes service accounts
+     * IAM role integration with with Kubernetes service accounts
     
-    *Technical environment : Aws, Kubernetes, argocd, falco, helm, github actions, cloudformation, ruby, python, secret management*
+    *Technical environment : Aws, K8s, argocd, flux, helm, github actions, cloudformation, ruby, python*
     <br/><br/>
 
-    **Client: Erudit** - March 2022 to July 2022
-    --------------------------------------------
+- layout: left
+  company: Erudit (for Azoplee)
+  job_title: Senior Consultant
+  dates: March 2022 to July 2022
+  description: |
 
     *Assignment: Platform Migration*
 
@@ -58,11 +77,13 @@
 
 
     *Technical environment : Podman, Ansible, Gitlab, Openstack*
-    <br/><br/>
+    <br/>
 
-    **Client: Bell** - June 2020 to June 2022
-    -----------------------------------------
-
+- layout: left
+  company: Bell (for Azoplee)
+  job_title: Senior PaaS Specialist and Solution Architect
+  dates: June 2020 to June 2022
+  description: |
     *Assignment: Node migration in a Kubernetes cluster*
 
     * Cluster node addition
@@ -72,7 +93,7 @@
 
     *Technical environment : Linux, RKE, Ansible, Helm*
 
-    *Assignment: Tooling and pipeline improvemnts*
+    *Assignment: Tooling and pipeline improvements*
 
     * Add, update and deploy charts
     * Configuration deployment automation with ArgoCD
@@ -83,7 +104,7 @@
     *Assignment: Support of new tenants on Openshift environments*
 
     * Tenant onboarding
-    * Teach Kubernetes best ptractices
+    * Teach Kubernetes best practices
     * Business configuration setup
 
     *Technical environment : Openshift, BGP, Envoy, Helm, ArgoCD*
@@ -96,11 +117,13 @@
     * Support strategy based on tenant expertise
 
     *Technical environment : AWS, GCP, Rosa*
-    <br/><br/>
+    <br/>
 
-    **Customer: Axceta** - February 2020 to May 2020
-    -------------------------------------
-
+- layout: left
+  company: Axceta (for Azoplee)
+  job_title: Senior Devops Engineer and Solution Architect
+  dates: February 2020 to May 2020
+  description: |
     *Assignment: Kubernetes-based stack Audit and Helm setup*
 
     * Audit of existing architecture in Google Cloud
@@ -108,10 +131,13 @@
     * CI/CD pipeline improvement with Helm
 
     *Technical environment : Google Cloud Platform, GKE, Cloud Endpoint, Helm*
-    <br/><br/>
+    <br/>
 
-    **Customer: Numigi** - December 2019 to February 2020
-    -------------------------------------
+- layout: left
+  company: Numigi (for Azoplee)
+  job_title: Senior Devops Engineer and Solution Architect
+  dates: December 2019 to February 2020
+  description: |
 
     *Assignment: Stack migration from a Docker based architecture to a Kubernetes one*
 
@@ -120,11 +146,13 @@
     * Packaging and Deployment Automation
 
     *Technical environment : Kubernetes, Docker, DigitalOcean, Helm, Ansible*
-    <br/><br/>
+    <br/>
 
-    **Customer: Nokia** - November 2019 to February 2020
-    -------------------
-
+- layout: left
+  company: Nokia (for Azoplee)
+  job_title: Senior Devops Engineer
+  dates: November 2019 to February 2020
+  description: |
     *Assignment: Scaling Platform*
 
     * Migration of business application from ECS to Kubernetes
@@ -133,8 +161,8 @@
 
     *Technical environment : EKS, Helm, Gitlab, Openstack, Terraform*
 
-    <br/><br/>
-
+    <br/>
+    <p style="page-break-after: always;">&nbsp;</p>
 
 - layout: left
   company: Fon <br/> (previously XCellAir)
@@ -159,7 +187,7 @@
     * Deployment of an internal artifacts manager (Nexus)
 
 
-    *Assignment: Scaling plateform*
+    *Assignment: Scaling platform*
 
     * Introduction of Docker technology in the company and user training
     * Lead containerization of business applications and technology adoption
@@ -180,7 +208,7 @@
 
     * Setup and configuration of a Kubernetes cluster
     * Development of patch to Kubernetes to add new features
-    * Development of a tool to automate installation, with continuous intergration and test in cloud
+    * Development of a tool to automate installation, with continuous integration and test in cloud
     * CI pipeline and unit tests of the setup tool
     * Setup, configuration, monitoring and maintenance of a docker registry for locals apps
     * Proxy architecture to replicate docker images
@@ -218,7 +246,7 @@
     **Customer: Société de transport de Montréal**
     ----------------------------------------------
 
-    *Assignment : Setup of a monitoring tool in a huge environnemnt*
+    *Assignment : Setup of a monitoring tool in a huge environment*
 
     * Setup the monitoring tool in dev env
     * Development of tool generating configuration
@@ -236,8 +264,8 @@
     *Assignment : Monitoring software update and hardware addition*
 
     * Keep the software up to date with latest features
-    * Monitor new hardwares, servers, softwares.
-    * Custimization
+    * Monitor new hardware, servers, software.
+    * Customization
 
     *Technical environment: Linux, Python, Shinken, Thruk, Nagvis, Windows Server, WMI, VmWare, SNMP*
 
@@ -247,7 +275,7 @@
 
     *Assignment : Setup of a monitoring tool*
 
-    * Setup and customization (alerting, theshold)
+    * Setup and customization (alerting, threshold)
     * Custom development of monitoring plugins
     * Formation materials
 

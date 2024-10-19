@@ -2,10 +2,25 @@
   company: Azoplee.com
   job_title: Senior Consultant
   dates: Novembre 2019 - présent
+  description: | 
+    
+    En plus des missions détaillées ci-dessous, j'ai pu contribué à plusieurs projets open-source:
+    * Prometheus (Exporters - Go)
+    * Terraform (Provider - Go)
+    * Pipenv (Python)
+    * Onetimesecret (Ruby)
+    * Salt (Python)
+    * Chef (Openstack Cookbooks - Ruby)
+    * Kubernetes (Dashboard - Go)
+    * Ansible (Collections - Bug report)
+    * Podman (Bug report)
+    <p style="page-break-after: always;">&nbsp;</p>
+
+- layout: left
+  company: Bayer (pour Azoplee)
+  job_title: Architecte de Solution Cloud Senior et Devops
+  dates: Avril 2023 à Décembre 2023
   description: |  
-    **Client: Bayer** - Avril 2023 à Décembre 2023
-    ----------------------------------------------
-      
     *Mission : Creation d'un logiciel dans le domaine de l'horticulture*
 
     *Tâche : Architecture de l'infrastructure cloud*
@@ -28,10 +43,13 @@
     * Preuve de concept d’intégration et validation
 
     *Environnement technique : Azure, Azure Containers App, Gitlab, Azure functions, SQL server, Postgresql, Graphql, Terraform, Azure Data Explorer, Event hub, Cosmosdb*
-    <br/><br/>
-    
-    **Client: Alayacare** - Octobre 2022 à Mars 2023
-    ------------------------------------------------
+    <br/>
+
+- layout: left
+  company: Alayacare (pour Azoplee)
+  job_title: Ingénieur Devops Senior
+  dates: Octobre 2022 à Mars 2023
+  description: | 
 
     *Tâche : Optimisation des coûts des workloads Kubernetes*
     * Mise en place d'autoscaler basé sur l'utilisation CPU des applications
@@ -48,24 +66,30 @@
      * Mise à niveau des applications de logging
      * Integration des roles AWS avec Kubernetes
   
-    *Environnement technique : Aws, Kubernetes, argocd, falco, helm, github actions, cloudformation, ruby, python, secret management*
-    <br/><br/>
+    *Environnement technique : AWS, K8s, argocd, flux, helm, github actions, cloudformation, ruby, python*
+    <br/>
 
-    **Client: Erudit** - Mars 2022 à Juillet 2022
-    ---------------------------------------------
+- layout: left
+  company: Erudit (pour Azoplee)
+  job_title: Consultant Senior
+  dates: Mars 2022 à Juillet 2022
+  description: | 
 
     *Tâche: Migration de Plateforme*
 
     * Containeurisation des applications metier avec Podman
-    * Artitecture de la solution CI/CD
+    * Architecture de la solution CI/CD
     * Automatisation des deploiements avec Ansible
 
     *Environnement technique : Podman, Ansible, Gitlab, Openstack*
-    <br/><br/>
+    <br/>
 
-    **Client: Bell** - Juin 2020 à Juin 2022
-    -----------------------------------------
-
+- layout: left
+  company: Bell (pour Azoplee)
+  job_title: Spécialiste PaaS Senior et Architecte de Solution
+  dates: Juin 2020 à Juin 2022
+  description: | 
+    
     *Tâche: Migration de noeuds d'un cluster Kubernetes*
 
     * Addition de nouveau noeud dans un cluster Kubernetes
@@ -100,11 +124,13 @@
     * Définition d'une strategie d'accompagnement des utilisateurs selon leur expertise
 
     *Environnement technique : AWS, GCP, Rosa*
-    <br/><br/>
+    <br/><br/><br/>
 
-
-    **Client: Axceta** - Fevrier 2020 à Mai 2020
-    -----------------------------------------
+- layout: left
+  company: Axceta (pour Azoplee)
+  job_title: Ingénieur Devops Senior et Architecte de Solution
+  dates: Fevrier 2020 à Mai 2020
+  description: | 
 
     *Tâche: Audit d'une stack Kubernetes et introduction de Helm*
 
@@ -113,10 +139,13 @@
     * Amélioration du pipeline de CI/CD avec Helm
 
     *Environnement technique : Google Cloud Platform, GKE, Cloud Endpoint, Helm*
-    <br/><br/>
+    <br/>
 
-    **Client: Numigi** - Decembre 2019 à Fevrier 2020
-    -----------------------------------------
+- layout: left
+  company: Numigi (pour Azoplee)
+  job_title: Ingénieur Devops Senior et Architecte de Solution
+  dates: Decembre 2019 à Fevrier 2020
+  description: | 
 
     *Tâche: Migration d'une stack applicative d'une base docker à une architecture Kubernetes*
 
@@ -126,10 +155,13 @@
     * Packaging et automatisation du déploiement
 
     *Environnement technique : Kubernetes, Docker, DigitalOcean, Helm, Ansible*
-    <br/><br/>
+    <br/>
 
-    **Client: Nokia** - Novembre 2019 à Fevrier 2020
-    -------------------
+- layout: left
+  company: Nokia (pour Azoplee)
+  job_title: Ingénieur Devops Senior
+  dates: Novembre 2019 à Fevrier 2020
+  description: | 
 
     *Tâche: Plateforme de scaling*
 
@@ -139,14 +171,15 @@
     * Ajout de dashboards de monitoring et logs (ELK)
 
     *Environnement technique : EKS, Helm, Gitlab, Openstack, Terraform, ELK*
-
-    <br/><br/>
+    <br/>
+    <div style="break-after:always"></div>
+    
 
 
 - layout: left
   company: Fon <br/> (ancient XCellAir)
   #link: Link to company (optional)
-  job_title: Senior Devops Engineer
+  job_title: Ingénieur Devops Senior
   dates: Mai 2017 - Novembre 2019
   description: |
 
@@ -186,7 +219,7 @@
   company: Nuance Communications
   #link: Link to company (optional)
   dates: Avril 2016 - Mai 2017
-  job_title: Devops Engineer
+  job_title: Ingénieur Devops
   description: |
 
     *Tâche: Mise a disposition d'une plateforme cloud pour l'installation d'application metier*
@@ -207,7 +240,7 @@
   company: Nuance Communications
   #link: Link to company (optional)
   dates: Novembre 2015 - Avril 2016
-  job_title: Release and Continuous Integration Engineer
+  job_title: Ingenieur Release et Integration Continue
   description: |
 
     *Tâche: Ameliration de la fiabilité du pipeline d'Integration Continue*
@@ -225,7 +258,7 @@
 - layout: left
   company: Savoir-faire Linux
   #link: Link to company (optional)
-  job_title: Free Software Consultant
+  job_title: Consultant Logiciels Libres
   dates: Avril 2013 - Novembre 2015
   description: |
 
