@@ -26,4 +26,7 @@
     {%- endif -%}
     {{ include.item.description | strip | markdownify }}
   </div>
+  {%- if include.item.page_break_after -%}
+  <div style="break-after:always"></div>
+  {%- endif -%}
 </div>

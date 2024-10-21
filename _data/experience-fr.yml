@@ -2,6 +2,7 @@
   company: Azoplee.com
   job_title: Senior Consultant
   dates: Novembre 2019 - présent
+  page_break_after: true
   description: | 
     
     En plus des missions détaillées ci-dessous, j'ai pu contribué à plusieurs projets open-source:
@@ -14,7 +15,7 @@
     * Kubernetes (Dashboard - Go)
     * Ansible (Collections - Bug report)
     * Podman (Bug report)
-    <p style="page-break-after: always;">&nbsp;</p>
+
 
 - layout: left
   company: Bayer (pour Azoplee)
@@ -161,6 +162,7 @@
   company: Nokia (pour Azoplee)
   job_title: Ingénieur Devops Senior
   dates: Novembre 2019 à Fevrier 2020
+  page_break_after: true
   description: | 
 
     *Tâche: Plateforme de scaling*
@@ -172,7 +174,7 @@
 
     *Environnement technique : EKS, Helm, Gitlab, Openstack, Terraform, ELK*
     <br/>
-    <div style="break-after:always"></div>
+    
     
 
 
@@ -181,6 +183,7 @@
   #link: Link to company (optional)
   job_title: Ingénieur Devops Senior
   dates: Mai 2017 - Novembre 2019
+  page_break_after: true
   description: |
 
     *Tâche: Plateforme cloud privée*
@@ -213,7 +216,6 @@
 
     *Environnement technique : Kubernetes, AWS, Terraform, Gitlab, Openstack, Chef, Jenkins, Python, Jira*
 
-    <p style="page-break-after: always;">&nbsp;</p>
 
 - layout: left
   company: Nuance Communications
@@ -241,9 +243,10 @@
   #link: Link to company (optional)
   dates: Novembre 2015 - Avril 2016
   job_title: Ingenieur Release et Integration Continue
+  page_break_after: true
   description: |
 
-    *Tâche: Ameliration de la fiabilité du pipeline d'Integration Continue*
+    *Tâche: Amelioration de la fiabilité du pipeline d'Integration Continue*
 
     * Installation d'une solution de monitoring maison pour détecter les problèmes serveurs
     * Mise en place du approche de container dans le CI pour avoir des agent stateless
@@ -253,7 +256,6 @@
 
     *Environnement technique : Linux, Python, Salt, Docker, Bamboo, Sensu, Graphite, Grafana, Ruby*
 
-    <p style="page-break-after: always;">&nbsp;</p>
 
 - layout: left
   company: Savoir-faire Linux
@@ -299,5 +301,3 @@
     * Création de matériel de formation
 
     *Environnement technique : Linux, Python, Shinken, Centreon, MySQL, PHP, Windows Server, WMI, vSphere*
-
-
