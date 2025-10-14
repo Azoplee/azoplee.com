@@ -18,6 +18,36 @@
 
 
 - layout: left
+  company: Intact (pour Azoplee)
+  job_title: Consultant Senior Azure et Devops
+  dates: Novembre 2024 - présent
+  description: |  
+    *Mission : Implémentation et déploiement de Landing Zone dans Azure*
+
+    *Tâche : Design de landing zone*
+    
+    * Etude de l'existant pour l'observabilité dans Azure (Insight, Grafana / Dashboard)
+    * Etude d'intégration entre Terraform (Iac) et Nerdio (gestion AVD)
+    * Analyse du niveau de conformité des Polices Azure 
+    * Etude des flux réseau et design de solution de communication on-prem / Azure
+
+    *Tâche: Déploiement de multiples landing zone*
+    
+    * Déploiement d'un cluster AKS et runner Gitlab pour le déploiement de l'infrastructure
+    * Creation et modification de module d'IaC alignés avec les meilleures pratiques Azure
+    * Déploiement multi-tenant de modules IaC via pipelines de CI
+    * Automatisation du déploiement d'un nouveau tenant à travers multiple dépots de code
+
+    *Tâche: Utilisation des landing zones*
+    
+    * Poc en container d'une application business dans Azure
+    * Migration d'une application desktop dans Azure
+    * Accompagnement d'utilisateurs dans des lignes d'affaires (LoB) pour les deploiements IaC
+
+    *Environnement technique : Azure, Terraform, AKS, Gitlab, DNS, Private Endpoints, Active Directory, AVD, Python, BGP*
+    <br/><br/><br/>
+
+- layout: left
   company: Bayer (pour Azoplee)
   job_title: Architecte de Solution Cloud Senior et Devops
   dates: Avril 2023 à Décembre 2023
@@ -25,11 +55,10 @@
     *Mission : Creation d'un logiciel dans le domaine de l'horticulture*
 
     *Tâche : Architecture de l'infrastructure cloud*
-   
-    
+       
     * Conception de la solution d'infrastructure dans un cloud Azure
-    * Integration d'un pipeline IOT dans l'architecture
-    * Integration Azure des composants pour une approche sans mot de passe
+    * Integration d'un pipeline IOT dans l'architecture et sécurisation des endpoints
+    * Integration Azure AD des composants pour une approche sans mot de passe
 
     *Tâche : Acceleration du prototypage*
     
@@ -41,9 +70,9 @@
     
     * Analyse et traduction des besoins d'affaires
     * Analyse des limitations de l'API
-    * Preuve de concept d’intégration et validation
+    * Preuve de concept d'authentification, d’intégration et validation 
 
-    *Environnement technique : Azure, Azure Containers App, Gitlab, Azure functions, SQL server, Postgresql, Graphql, Terraform, Azure Data Explorer, Event hub, Cosmosdb*
+    *Environnement technique : Azure, Terraform (Azurerm / Azapi), Containers App, Azure functions, Private Endpoints, Private DNS, Jumpbox*
     <br/>
 
 - layout: left
@@ -58,16 +87,14 @@
     * Reduction de 10% des coûts des noeuds des clusters Kubernetes
   
     *Tâche : Analyse de problème de stabilité des applications*
-     * Analyse du throttling CPU des applications par Kubernetes
-     * Analyse des ressources systèmes réservées par les noeuds Kubernetes 
-     * Recommendation d'ajout de quotas applicatif et système
+    * Analyse du throttling CPU des applications et des ressources systèmes Kubernetes
+    * Recommendation d'ajout de quotas applicatif et système
   
     *Tâche : Déploiements applicatifs*
-     * Ajout de onetimesecret interne 
-     * Mise à niveau des applications de logging
-     * Integration des roles AWS avec Kubernetes
+    * Ajout de onetimesecret interne et mise à niveau du logging
+    * Integration des roles AWS avec Kubernetes pour implémenter du PoLP
   
-    *Environnement technique : AWS, K8s, argocd, flux, helm, github actions, cloudformation, ruby, python*
+    *Environnement technique : AWS, Kubernetes, Argocd, Flux, Helm, github actions, Terraform, Cloudformation, Ruby, Python*
     <br/>
 
 - layout: left
@@ -83,7 +110,7 @@
     * Automatisation des deploiements avec Ansible
 
     *Environnement technique : Podman, Ansible, Gitlab, Openstack*
-    <br/>
+    <br/><br/><br/><br/>
 
 - layout: left
   company: Bell (pour Azoplee)
@@ -95,7 +122,7 @@
 
     * Addition de nouveau noeud dans un cluster Kubernetes
     * Reinstallation des noeuds physique du cluster
-    * Maintien des applications operationnelles pendant la migration
+    * Maintien des applications opérationnelles pendant la migration
 
     *Environnement technique : Linux, RKE, Ansible, Helm*
 
@@ -104,16 +131,17 @@
 
     * Ajout, modification, déploiement de charts
     * Automatisation des deploiements de configuration avec ArgoCD
-    * Creation d'un standard de configuration pour les nouveaux clusters
+    * Creation d'un standard de configuration pour les clusters baremetal des nouveaux datacenter
 
-    *Environnement technique : Gitlab, Helm, Openshift, ArgoCD, ELK, Kafka*
+    *Environnement technique : Gitlab, Helm, Openshift, ArgoCD, ELK, Kafka, PowerDNS*
 
 
     *Tâche: Accompagnement de nouveau clients interne sur des environnements Openshift*
 
-    * Accueil et intégration de client dans les cluster
+    * Accueil et intégration de client dans les clusters
     * Initiation aux meilleurs pratiques Kubernetes
     * Déploiement de configuration pour des besoins d'affaire
+    * Debuggage avancé des flux réseaux pour connecter des applications metier 
 
     *Environnement technique : Openshift, BGP, Envoy, Helm, ArgoCD*
 
@@ -124,7 +152,7 @@
     * Définition des roles et responsabilités des equipes internes
     * Définition d'une strategie d'accompagnement des utilisateurs selon leur expertise
 
-    *Environnement technique : AWS, GCP, Rosa*
+    *Environnement technique : AWS, GCP, Rosa, Landing Zone*
     <br/><br/><br/>
 
 - layout: left
@@ -136,11 +164,11 @@
     *Tâche: Audit d'une stack Kubernetes et introduction de Helm*
 
     * Audit de l'architecture existante sur Cloud Google
-    * Detection et amélioration des problème de design et sécurité
+    * Detection et amélioration des problèmes de design et sécurité
     * Amélioration du pipeline de CI/CD avec Helm
 
     *Environnement technique : Google Cloud Platform, GKE, Cloud Endpoint, Helm*
-    <br/>
+    <br/><br/>
 
 - layout: left
   company: Numigi (pour Azoplee)
@@ -202,7 +230,7 @@
     * Amelioration de la rapidité d'equipe avec boucle de rétroaction rapide
     * Analyse statique de code avec SonarQube
     * Deploiement d’un gestionnaire d’artifact interne (Nexus)
-    * Configuration et sécuration de Nexus (Docker registry, HTTPS)
+    * Configuration et sécurisation de Nexus (Docker registry, HTTPS)
 
 
     *Tâche: Plateforme de scaling*
@@ -227,8 +255,8 @@
     *Tâche: Mise a disposition d'une plateforme cloud pour l'installation d'application metier*
 
     * Installation et configuration d'un cluster Kubernetes from scratch
-    * Developpement de patch pour Kubernetes afin d'ajouter des foncionnalités
-    * Développment d'un outil pour automatiser l'installation d'un cluster from scratch
+    * Développement de patch pour Kubernetes afin d'ajouter des fonctionnalités
+    * Développement d'un outil pour automatiser l'installation d'un cluster from scratch
     * Mise en place d'un CI et et test unitaire pour l'outil d'installation
     * Installation, configuration, supervision d'un registry d'image docker utilisé pour les applications locales en production
     * Mise d'une architecture de proxy pour répliquer les images docker
@@ -276,7 +304,7 @@
     * Mise en place de tests d'intégration continue
     * Tests de performances, tests fonctionnels
 
-    *Environnement technique : Linux, Python, Shinken, Graphite, Windows Server, WMI, VmWare, Talend, Ossec, Collectd, SNMP*
+    *Environnement technique : Linux, Python, Shinken, Graphite, Windows Server, Splunk, VmWare, Talend, Ossec, Collectd, SNMP*
 
 
     **Client: Société de développement de la Baie-James**

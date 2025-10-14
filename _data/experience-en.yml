@@ -15,6 +15,38 @@
     * Podman (Bug report)
     <p style="page-break-after: always;">&nbsp;</p>
 
+
+- layout: left
+  company: Intact (for Azoplee)
+  job_title: Senior Azure Consultant and Devops
+  dates: Novembre 2024 - présent
+  description: |  
+    *Mission : Implementation and deployment of Azure Landing Zone*
+
+    *Tâche : Landing Zone Design*
+    
+    * Evaluation of Azure observability tooling (Insight, Grafana / Dashboard)
+    * Evaluation of Terraform (IAC) and Nerdio (AVD management) integration
+    * Azure policies conformity Analysis 
+    * Network flow design between on-prem and Azure
+
+    *Tâche: Landing zone deployments*
+    
+    * AKS cluster setup along with Gitlab runner to déploy infrastructure
+    * IaC module creation and update following Azure best practices
+    * Multi-tenant Iac module deployment with CI
+    * New tenant deployment automation across multiple repository
+
+    *Tâche: Landing zones leveraging*
+    
+    * Containerization POC of business app in Azure
+    * Tenant desktop application migration in Azure
+    * Line of business users coaching for new IaC deployment
+
+    *Technical environment : Azure, Terraform, AKS, Gitlab, DNS, Private Endpoints, Active Directory, AVD, Python, BGP*
+    <br/><br/><br/>
+
+
 - layout: left
   company: Bayer (for Azoplee)
   job_title: Senior Solution Architect and Devops
@@ -77,7 +109,7 @@
 
 
     *Technical environment : Podman, Ansible, Gitlab, Openstack*
-    <br/>
+    <br/><br/>
 
 - layout: left
   company: Bell (for Azoplee)
@@ -131,7 +163,7 @@
     * CI/CD pipeline improvement with Helm
 
     *Technical environment : Google Cloud Platform, GKE, Cloud Endpoint, Helm*
-    <br/>
+    <br/><br/>
 
 - layout: left
   company: Numigi (for Azoplee)
